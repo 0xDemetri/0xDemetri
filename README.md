@@ -1,92 +1,243 @@
-# 👨‍💻 SOC Analyst Learning Journey
+# SOC Analyst Portfolio
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=proton)](mailto:hlowd@proton.me)
-
-> 🎯 **Current Goal:** Transition to SOC Analyst L1/L2 role  
-> 📅 **Journey Start:** February 2026  
-> 🎓 **Target Certifications:** CompTIA Security+, Microsoft SC-200
+> **Current Status**: 🎓 In Training | **Target Role**: SOC Analyst L1  
+> **Study Roadmap**: [2026 SOC Analyst Roadmap](https://github.com/0xDemetri/SOC-Roadmap-2026) *(create separate repo - see setup instructions)*  
+> **Timeline**: February 2026 - April 2027 (14 months)
 
 ---
 
-## 🧭 About Me
+## 👨‍💻 About Me
 
-A SOC novice with plans to specialize in Blue Team operations, SIEM engineering, and threat detection. Currently following a structured 14-month roadmap to develop production-ready cybersecurity skills.
+Junior cybersecurity professional building hands-on SOC analyst skills through structured self-study. Currently progressing through a comprehensive 14-month roadmap focused on SIEM platforms, detection engineering, and cloud security.
 
-**Core Focus Areas:**
-- 🔍 Security Information and Event Management (SIEM)
-- 🛡️ Threat Detection & Incident Response
-- 🤖 AI/ML-Powered Security Analytics
-- 📊 Log Analysis & Behavioral Detection
-- 🎯 MITRE ATT&CK Framework
+**Learning Philosophy**: Deep foundation + practical labs + portfolio documentation = job readiness
 
 ---
 
-## 📚 Current Learning Phase
+## 🎯 Current Progress
 
-### **Phase 1: Foundation (Month 1/5)** — *In Progress*
+**Phase**: Foundation Building (Months 1-5)  
+**Current Focus**: Networking Fundamentals  
+**Last Updated**: February 2026
 
-**This Month Focus:**
-- ✅ Networking Fundamentals (Week 1/6)
-  - TCP/IP deep dive
-  - Wireshark packet analysis
-  - Building network topologies in GNS3
-
-**Next Up:**
-- Protocol Analysis (HTTP, DNS, SSH, SMTP)
-- Network Security (Firewalls, IDS/IPS)
+### Roadmap Completion
+- [x] **Month 1**: Networking - TCP/IP Deep Dive *(in progress)*
+- [ ] **Month 1.5**: Networking - Protocol Analysis
+- [ ] **Month 2-3.5**: Windows & Linux OS Mastery
+- [ ] **Month 4**: Security Fundamentals
+- [ ] **Month 5**: CompTIA Security+ Certification
+- [ ] **Months 6-7**: Elastic Security Stack
+- [ ] **Months 8-9.5**: Microsoft Sentinel Mastery
+- [ ] **Month 10**: Detection Engineering
+- [ ] **Months 11-12**: IR Tools & Cloud Security
+- [ ] **Month 13**: Microsoft SC-200 Certification
+- [ ] **Month 14**: Portfolio Completion & Job Search
 
 ---
 
 ## 🛠️ Technical Skills
 
-### **Currently Learning:**
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### Currently Building
+- **Networking**: TCP/IP, Wireshark, protocol analysis
+- **Operating Systems**: Windows Event Logs, Linux CLI
+- **Security Fundamentals**: MITRE ATT&CK framework
 
-### **Planned:**
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
----
-
-## 📁 Portfolio Projects
-
-> 🚧 **Building in Progress** — Projects will be added as I complete each learning phase.
-
-**Planned Repositories:**
-- `network-packet-analysis` — Wireshark investigations & protocol analysis
-- `windows-security-labs` — Active Directory, Event Logs, PowerShell automation
-- `linux-security-hardening` — SSH hardening, log parsing, bash scripts
-- `elastic-siem-detections` — Elastic Stack detection rules & ML jobs
-- `sentinel-kql-queries` — Microsoft Sentinel hunting queries & UEBA
-- `sigma-detection-rules` — Detection engineering with Sigma framework
+### Planned Skills (Upcoming Months)
+- **SIEM Platforms**: Microsoft Sentinel, Elastic Stack
+- **Query Languages**: KQL (Kusto), EQL (Elastic)
+- **Detection Engineering**: Sigma rules, behavioral analytics
+- **Cloud Security**: Azure AD/Entra ID, identity attacks
+- **AI/ML Security**: UEBA, Security Copilot, anomaly detection
+- **Automation**: Logic Apps, SOAR playbooks
+- **Tools**: Sysmon, Velociraptor, TheHive, Cortex
 
 ---
 
-## 🎓 Certifications
+## 🏗️ Lab Environment
 
-| Certification | Status | Target Date |
-|---------------|--------|-------------|
-| CompTIA Security+ (SY0-701) | 🔄 In Progress | June 2026 |
-| Microsoft SC-200 | 📅 Planned | December 2026 |
+### Architecture
+*(Architecture diagram will be added after Month 2 - AD/Network setup complete)*
+
+### Current Infrastructure
+- **Hypervisor**: *(e.g., VMware Workstation / VirtualBox / Proxmox)*
+- **VMs Deployed**: 
+  - Windows Server 2022 (planned)
+  - Ubuntu Server 24.04 (planned)
+  - Windows 10/11 client (planned)
+- **Network Topology**: *(under construction)*
+- **SIEM**: *(deployment planned for Month 6)*
+
+### Tools Installed
+- [x] Wireshark
+- [ ] Packet Tracer / GNS3
+- [ ] Sysmon
+- [ ] Elastic Stack
+- [ ] Microsoft Sentinel (Azure trial)
 
 ---
 
-## 🤝 Let's Connect
+## 📚 Certifications
 
-I'm actively documenting my journey from zero to SOC Analyst. Feel free to:
-- 💬 Discuss SOC techniques and tools
-- 🤝 Collaborate on Blue Team learning projects
-- 📧 Reach out for mutual support in cybersecurity learning
+### In Progress
+- 🎯 **CompTIA Security+** (SY0-701) - *Target: Month 5 (June 2026)*
+
+### Planned
+- 📋 **Microsoft SC-200** (Security Operations Analyst) - *Target: Month 13 (February 2027)*
+
+### Future Goals
+- Microsoft AZ-500 (Azure Security Engineer)
+- Offensive Security SOC-200 (OSDA)
+
+---
+
+## 🔍 Investigation Reports
+
+*Investigation reports will be published here as I complete simulated incidents during SIEM training (Months 6+)*
+
+### Template Structure
+Each investigation will include:
+1. **Executive Summary** - High-level overview for management
+2. **Technical Timeline** - Detailed event sequence
+3. **Root Cause Analysis** - What happened and why
+4. **Remediation** - Actions taken and recommendations
+
+**Target**: 10+ documented investigations by Month 14
+
+---
+
+## 🎨 Detection Rules
+
+*Custom detection rules will be published here starting Month 10 (Detection Engineering phase)*
+
+### Sigma Rules
+Repository for platform-agnostic detection rules mapped to MITRE ATT&CK framework.
+
+**Target**: 25-30 production-ready Sigma rules by Month 14
+
+### KQL Queries
+Collection of useful Kusto Query Language queries for Microsoft Sentinel.
+
+**Categories** *(planned)*:
+- Authentication analysis
+- Lateral movement detection
+- Data exfiltration indicators
+- Behavioral anomalies
+- Threat hunting
+
+---
+
+## 🤖 Automation & Scripts
+
+*Scripts and automation playbooks will be added during Months 10-12*
+
+### PowerShell Scripts
+- Windows log analysis automation
+- Event correlation scripts
+- Automated reporting
+
+### Bash Scripts
+- Linux log parsing
+- System enumeration
+- Incident response automation
+
+### SOAR Playbooks
+- Microsoft Sentinel Logic Apps
+- Automated response workflows
+
+---
+
+## 📖 Learning Resources
+
+### Following This Roadmap
+- [SOC Analyst Roadmap 2026](https://github.com/YOUR-USERNAME/SOC-Roadmap-2026) - My complete 14-month study plan
+
+### Currently Using
+- **Networking**: Wireshark Network Analysis (book), Chris Greer YouTube
+- **Practice Labs**: *(to be added)*
+- **Certifications**: *(to be added as I start prep)*
+
+### Communities
+- TryHackMe SOC Level 1 path
+- Blue Team Labs Online
+- Microsoft Sentinel Community
+- r/cybersecurity
+
+---
+
+## 📊 Study Tracking
+
+### Study Hours
+- **Weekly Target**: 35-42 hours (5-6 hours/day)
+- **Total Hours** *(as of Feb 2026)*: ~40 hours
+- **Current Streak**: 6 days
+
+### Monthly Milestones
+| Month | Phase | Status | Completion Date |
+|-------|-------|--------|-----------------|
+| 1-1.5 | Networking Fundamentals | 🔄 In Progress | Target: Mid-March 2026 |
+| 2-3.5 | Windows & Linux OS | ⏳ Upcoming | Target: June 2026 |
+| 4 | Security Fundamentals | ⏳ Planned | Target: July 2026 |
+| 5 | Security+ Cert | ⏳ Planned | Target: July 2026 |
+
+---
+
+## 🎯 Career Goals
+
+### Short-term (Next 6 months)
+- [ ] Complete Foundation phase (Months 1-5)
+- [ ] Earn CompTIA Security+ certification
+- [ ] Build functional home lab with AD environment
+- [ ] Master Wireshark and basic packet analysis
+
+### Medium-term (Months 6-14)
+- [ ] Deploy and master Microsoft Sentinel
+- [ ] Deploy and master Elastic Stack
+- [ ] Create 30+ Sigma detection rules
+- [ ] Complete 10+ documented investigations
+- [ ] Earn Microsoft SC-200 certification
+
+### Long-term (Post-training)
+- [ ] Secure SOC Analyst L1 position (Target: Q2 2027)
+- [ ] Contribute to open-source security projects
+- [ ] Progress to SOC L2 within 12 months
+- [ ] Specialize in Detection Engineering or Threat Hunting
+
+---
+
+## 📫 Contact & Connect
+
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile) *(add after Month 5)*
+- **Email**: your.email@example.com
+- **Location**: Ukraine (Open to remote opportunities)
+
+---
+
+## 🔄 Portfolio Updates
+
+This portfolio is actively maintained and updated as I progress through my training roadmap.
+
+**Update Frequency**: 
+- README status: Weekly
+- New content (reports, rules, scripts): As completed
+- Lab documentation: Monthly
+
+**Last Updated**: February 01, 2026  
+**Next Major Update**: Month 5 completion (Security+ certification)
+
+---
+
+## ⚖️ Disclaimer
+
+All investigations, attack simulations, and security testing documented in this portfolio were conducted in isolated lab environments on systems I own. No unauthorized access or testing on production systems was performed.
+
+All techniques are studied for defensive cybersecurity purposes only.
 
 ---
 
 <div align="center">
-  <i>⚡ "Detection without response is useless" — Building real-world SOC skills ⚡</i>
+
+**"Foundation first. Speed second. Quality always."**
+
+*This portfolio demonstrates commitment to deep learning over quick completion.*
+
 </div>
-
----
-
-**Last Updated:** [1 February 2026]
