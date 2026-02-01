@@ -1,0 +1,12 @@
+# KQL Query Library
+
+Kusto Query Language queries for Microsoft Sentinel.
+
+Categories:
+- Authentication Analysis
+- Lateral Movement Detection
+- Behavioral Anomalies
+- Threat Hunting
+- Data Exfiltration
+
+(Queries will be added starting Month 8 - Sentinel phase)
