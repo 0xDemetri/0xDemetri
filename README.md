@@ -1,7 +1,7 @@
 # SOC Analyst Portfolio
 
 > **Current Status**: 🎓 In Training | **Target Role**: SOC Analyst L1  
-> **Study Roadmap**: [2026 SOC Analyst Roadmap](https://github.com/0xDemetri/SOC-Roadmap-2026) *(create separate repo - see setup instructions)*  
+> **Study Roadmap**: [2026 SOC Analyst Roadmap](https://github.com/0xDemetri/SOC-Roadmap-2026) 
 > **Timeline**: February 2026 - April 2027 (14 months)
 
 ---
@@ -149,7 +149,7 @@ Collection of useful Kusto Query Language queries for Microsoft Sentinel.
 ## 📖 Learning Resources
 
 ### Following This Roadmap
-- [SOC Analyst Roadmap 2026](https://github.com/YOUR-USERNAME/SOC-Roadmap-2026) - My complete 14-month study plan
+- [SOC Analyst Roadmap 2026](https://github.com/0xDemetri/SOC-Roadmap-2026) - My complete 14-month study plan
 
 ### Currently Using
 - **Networking**: Wireshark Network Analysis (book), Chris Greer YouTube
@@ -207,7 +207,7 @@ Collection of useful Kusto Query Language queries for Microsoft Sentinel.
 ## 📫 Contact & Connect
 
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile) *(add after Month 5)*
-- **Email**: your.email@example.com
+- **Email**: hlowd@proton.me
 - **Location**: Ukraine (Open to remote opportunities)
 
 ---
