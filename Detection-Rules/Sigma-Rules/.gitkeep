@@ -1,0 +1,7 @@
+# Sigma Detection Rules
+
+Platform-agnostic detection rules mapped to MITRE ATT&CK framework.
+
+(Rules will be added starting Month 10 - Detection Engineering phase)
+
+Target: 25-30 production-ready rules
