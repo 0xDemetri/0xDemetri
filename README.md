@@ -1,6 +1,6 @@
 # 👨‍💻 SOC Analyst Learning Journey
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=proton)](mailto:YOUR.hlowd@proton.me)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=proton)](mailto:hlowd@proton.me)
 
 > 🎯 **Current Goal:** Transition to SOC Analyst L1/L2 role  
 > 📅 **Journey Start:** February 2026  
