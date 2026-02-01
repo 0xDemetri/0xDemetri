@@ -206,7 +206,7 @@ Collection of useful Kusto Query Language queries for Microsoft Sentinel.
 
 ## 📫 Contact & Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile) *(add after Month 5)*
+- **LinkedIn**: *I will add it after some time
 - **Email**: hlowd@proton.me
 - **Location**: Ukraine (Open to remote opportunities)
 
@@ -215,11 +215,6 @@ Collection of useful Kusto Query Language queries for Microsoft Sentinel.
 ## 🔄 Portfolio Updates
 
 This portfolio is actively maintained and updated as I progress through my training roadmap.
-
-**Update Frequency**: 
-- README status: Weekly
-- New content (reports, rules, scripts): As completed
-- Lab documentation: Monthly
 
 **Last Updated**: February 01, 2026  
 **Next Major Update**: Month 5 completion (Security+ certification)
